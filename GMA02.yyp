@@ -47,7 +47,6 @@
     {"id":{"name":"sBoss","path":"sprites/sBoss/sBoss.yy",},},
     {"id":{"name":"sEvilBaby","path":"sprites/sEvilBaby/sEvilBaby.yy",},},
     {"id":{"name":"sDemon","path":"sprites/sDemon/sDemon.yy",},},
-    {"id":{"name":"oScore","path":"objects/oScore/oScore.yy",},},
     {"id":{"name":"aBlow","path":"sounds/aBlow/aBlow.yy",},},
     {"id":{"name":"sFireBall","path":"sprites/sFireBall/sFireBall.yy",},},
     {"id":{"name":"oDeamon","path":"objects/oDeamon/oDeamon.yy",},},
