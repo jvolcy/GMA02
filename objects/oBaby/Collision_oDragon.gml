@@ -1,8 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-audio_play_sound(aBlow, 10, false);
-instance_create_layer(x+60, y-50, layer, oFireBall);
+//+500 if we reach mom
+score += 500;
+audio_play_sound(aMama, 10, false);
+instance_destroy();
+
+
 
 
 
